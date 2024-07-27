@@ -9,8 +9,8 @@ In the project directory, you can run:
 
 ### `npm run dev`
 
-Runs the app with the link below.
-Open [API LIVE Demo](https://zest-backend-nr0q.onrender.com/) to view in the browser.
+Runs the app with the link below.\
+Open [API LIVE Demo](https://zest-backend-nr0q.onrender.com/) to view in the browser.\
 Open [Live Link](https://larry-tea-shop.netlify.app/) to view it in the browser.
 
 The page will reload if you make edits.\
